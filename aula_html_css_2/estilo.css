@@ -1,0 +1,49 @@
+body{
+
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family: monospace;
+}
+
+.titulo{
+    color: aqua;
+    font-family: monospace;
+    font-weight: 300px;
+    border: 3px solid red;
+    font-size: 35px;
+    width: fit-content;
+    
+}
+
+.nave_bar{
+    list-style: none;
+    border: 3px solid green;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+    align-items: center;
+}
+
+.header{
+
+    border: 3px solid aqua;
+    
+    
+}
+
+.header ul {
+    color: rgb(245, 179, 58);
+}
+
+.header .container{
+
+    width: 80%;
+    border: 3px solid blueviolet;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+

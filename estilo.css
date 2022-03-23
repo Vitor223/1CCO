@@ -1,0 +1,36 @@
+.titulo{
+    color: aqua;
+    font-family: 'courier new', courier, monospace;
+    font-weight: 300;
+}
+
+.subtitulo{
+    font-family: 'courier new', courier, monospace;
+    color: brown;
+}
+
+.paragrafo {
+    
+    font-family: 'courier new', courier, monospace;
+    color: white;
+}
+
+.destaque {
+
+    color: green;
+    
+}
+
+.corpo {
+
+    font-family: monospace;
+    text-align: center;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+
+#img_bb{
+
+    width: 300px;
+}
